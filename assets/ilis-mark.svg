@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="ttl">
-<title id="ttl">Ilis Designs ornamental mark</title>
-<rect width="120" height="120" rx="60" fill="#27332e"/>
-<path d="M60 20v80M20 60h80" stroke="#bda781" stroke-width=".65" opacity=".45"/>
-<path d="M60 24c-4 15-15 25-30 36 15 11 26 21 30 36 4-15 15-25 30-36-15-11-26-21-30-36Z" stroke="#d5c49f" stroke-width="1.4" fill="none"/>
-<path d="M60 37c-2 10-11 19-21 23 10 4 19 13 21 23 2-10 11-19 21-23-10-4-19-13-21-23Z" fill="#d5c49f" opacity=".65"/>
-<circle cx="60" cy="60" r="3" fill="#27332e"/>
-</svg>
