@@ -98,3 +98,58 @@ h1 em,h2 em{color:#aa777d}
 .upload-fallback{margin:12px 4px 2px;font-size:11px;line-height:1.7;color:#647066}
 .upload-fallback a{color:#0d2840;text-decoration:underline;text-underline-offset:3px;font-weight:700}
 .upload-fallback a:focus-visible{outline:2px solid #b48690;outline-offset:3px}
+
+/* November 2026: readable type for all visitors, while keeping the original design. */
+body{line-height:1.55}
+.topline{height:auto;min-height:36px;padding:8px 12px;font-size:12px;line-height:1.35;letter-spacing:.12em;text-align:center}
+.brand small{font-size:12px;letter-spacing:.16em}
+.main-nav{font-size:15px}
+.nav-cta{font-size:15px;border-bottom-width:2px}
+.eyebrow{font-size:13px;letter-spacing:.12em;line-height:1.5}
+.hero-copy>p{font-size:17px;line-height:1.8}
+.button{font-size:15px;min-height:52px}
+.text-link,.light-link{font-size:15px}
+.hero-proof{font-size:14px;line-height:1.6}
+.vertical-wordmark{font-size:11px;letter-spacing:.13em}
+.art-caption span{font-size:11px;letter-spacing:.12em}
+.value-inner span{font-size:13px;letter-spacing:.06em}
+.section-intro p,.studio-heading p,.collections>p{font-size:17px;line-height:1.75}
+.step-number{font-size:13px}
+.steps p{font-size:16px;line-height:1.65}
+.guide-grid>div:first-child>p,.guide-list p{font-size:16px;line-height:1.75}
+.guide-list strong{font-size:17px}
+.panel-kicker{font-size:13px;letter-spacing:.12em}
+.step-pill{font-size:13px}
+.question legend{font-size:18px;line-height:1.45}
+.question-number{font-size:14px}
+.question-help{font-size:15px;line-height:1.55;color:#536271}
+.choice>span{min-height:89px}
+.choice b{font-size:16px;line-height:1.4}
+.choice small{font-size:14px;line-height:1.45;color:#576678}
+.choice input:checked+span:before{font-size:15px}
+.form-bottom p{font-size:15px;line-height:1.6;max-width:310px;color:#526173}
+.summary-top strong{font-size:16px}
+.summary p{font-size:15px;line-height:1.7}
+.edit-link{font-size:15px}
+.upload-instruction,.private-note,.upload-fallback{font-size:15px;line-height:1.7;color:#4c5d6a}
+.setup-alert p,.setup-alert code{font-size:14px}
+.collection-links .collection-body small{font-size:15px;line-height:1.5}
+.collection-links .collection-action{font-size:14px;line-height:1.5}
+.small-print p{font-size:15px;line-height:1.7;color:#526173}
+.footer-brand span{font-size:12px;letter-spacing:.2em}
+.footer-brand small{font-size:12px;letter-spacing:.08em}
+.footer-meta{font-size:14px;line-height:1.6}
+@media(max-width:880px){.value-inner span{font-size:13px}}
+@media(max-width:600px){
+ .brand small{font-size:11px}
+ .nav-cta{font-size:14px;white-space:nowrap}
+ .topline{font-size:11px;letter-spacing:.07em}
+ .hero-copy>p{font-size:16px}
+ .question legend{font-size:17px}
+ .choice>span{min-height:88px;padding:12px 11px}
+ .choice b{font-size:15px}
+ .choice small{font-size:13px}
+ .form-bottom p{font-size:15px}
+ .collections>p{font-size:16px}
+}
+@media(max-width:375px){.nav-cta{font-size:13px}.choice b{font-size:14px}.choice small{font-size:13px}}
